@@ -32,6 +32,7 @@ $ cat profile.json
   "collaboration": "Open to collaborating on innovative & beginner-friendly projects",
   "seeking": "Guidance in developing real-world applications",
   "fun_fact": "I enjoy continuously learning and exploring new technologies"
+  "contact me"📧padhiswayamsekhar2008@gmail.com
 }
 ```
 
