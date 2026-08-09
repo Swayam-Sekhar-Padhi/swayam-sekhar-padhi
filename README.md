@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wolf.jpg" width="100%" alt="Wolf Banner" />
+  <img src="Codex Image Jul 31, 2026, 10_37_52 PM.png" width="100%" alt="Wolf Banner" />
 </p>
 
 <!-- Cyberpunk/Hacker Terminal GitHub Profile README - ORIGINAL COLORS -->
