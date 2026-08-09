@@ -41,10 +41,9 @@ $ neofetch --profile
 <pre>
 <b>swayam@BCA-Terminal</b> 
 ------------------- 
-<b>OS</b>: Windows 11 / WSL-Arch 
+<b>OS</b>: Windows 11 / Linux
 <b>Academic Focus</b>: Bachelor of Computer Applications (BCA) 
 <b>Core Stack</b>: C, C++, Python, Java, HTML, MySQL 
-<b>Shell</b>: powershell / zsh 
 <b>Interests</b>: Software Development, Scripting, Database Systems 
 <b>Active Mission</b>: Converting basic concepts into scalable code
 </pre>
