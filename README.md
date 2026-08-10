@@ -146,8 +146,22 @@ $ query --stats --target=Swayam-Sekhar-Padhi
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam-Sekhar-Padhi&theme=react-dark" alt="Swayam's Contribution Graph" width="100%" />
+  
+---
+
+### ✍️ RANDOM DEV QUOTE
+
+```bash
+$ cat /dev/quote
+```
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="85%" />
+</div>
 
 ---
+
 
 ### 🕹️ ACTIVE REPO GAMEPLAY
 
