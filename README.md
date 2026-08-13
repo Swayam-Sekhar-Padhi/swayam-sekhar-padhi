@@ -40,15 +40,26 @@ $ cat profile.json
 $ neofetch --profile
 ```
 <pre>
-<b>swayam@BCA-Terminal</b> 
-------------------- 
+
+  <table align=" center" >
+    <tr>
+        <td>
+  <b>swayam@BCA-Terminal</b> 
+        ------------------- 
 <b>OS</b>: Windows 11 / Linux
 <b>Academic Focus</b>: Bachelor of Computer Applications (BCA) 
 <b>Core Stack</b>: C, C++, Python, Java, HTML, MySQL 
 <b>Interests</b>: Software Development, Scripting, Database Systems 
 <b>Active Mission</b>: Converting basic concepts into scalable code
+        </td>
+        <td>
+          <img src="developer.png" width="80%" alt="Developer" >
+        </td>
+    </tr>
+  </table>
 </pre>
 
+---
 ---
 
 ### 🌐 SECURE UPLINKS (Socials)
