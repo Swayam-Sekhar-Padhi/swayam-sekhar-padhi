@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="linkedin_banner.jpg" width="100%" alt="Wolf Banner" />
+  <img src="linkedin_banner.jpg" width="90%" alt="Wolf Banner" />
 </p>
 
 <!-- Cyberpunk/Hacker Terminal GitHub Profile README - ORIGINAL COLORS -->
